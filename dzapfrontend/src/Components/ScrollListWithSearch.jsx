@@ -149,7 +149,7 @@ const ScrollListWithSearch = () => {
     try {
       setChain(item);
       const response = await axios.get(
-        `${process.env.REACT_APP_LOCAL_BACKEND_URL}/tokens/${item.chainId}` // Update with your actual API endpoint
+        `${process.env.REACT_APP_BASE_URL_BACKEND}/tokens/${item.chainId}` // Update with your actual API endpoint
       );
       const updatedItem = response?.data?.data?.supportedTokens;
       console.log("updatedItem:", updatedItem);

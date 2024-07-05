@@ -73,7 +73,7 @@ const TransferUI = () => {
       setEstimatedGas("-");
 
       let response = await axios.post(
-        `${process.env.REACT_APP_LOCAL_BACKEND_URL}/quotes`,
+        `${process.env.REACT_APP_BASE_URL_BACKEND}/quotes`,
         data
       );
       response = response.data?.data;
@@ -121,7 +121,7 @@ const TransferUI = () => {
       };
 
       let response = await axios.post(
-        `${process.env.REACT_APP_LOCAL_BACKEND_URL}/params`,
+        `${process.env.REACT_APP_BASE_URL_BACKEND}/params`,
         data
       );
       response = response.data;
