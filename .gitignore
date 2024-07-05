@@ -1,0 +1,4 @@
+/backend/.env
+/backend/node_modules
+/dzapfrontend/.env
+/dzapfrontend/node_modules
