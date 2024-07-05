@@ -144,7 +144,7 @@ Example Response
   
    ![Example Screenshot](screenshots/s5.jpg)
 
-- ** Swap Transaction Successfull**
+- **Swap Transaction Successfull**
 
   
    ![Example Screenshot](screenshots/s6.jpg)
