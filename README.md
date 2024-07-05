@@ -116,3 +116,26 @@ Example Response
   }
 }
 ```
+
+
+# Screenshots
+- **Bridge App  UI
+  ![Example Screenshot](screenshots/s1.jpg)
+
+- **Connecting application with metamask
+  ![Example Screenshot](screenshots/s2.jpg)
+  
+- **Selecting Supported Token of Specific Chain
+  ![Example Screenshot](screenshots/s3.jpg)
+  
+- **Both Source and Destination Token Selected
+  ![Example Screenshot](screenshots/s4.jpg)
+
+- **Getting Quote Value in USD
+   ![Example Screenshot](screenshots/s5.jpg)
+
+- ** Swap Transaction Successfull
+   ![Example Screenshot](screenshots/s6.jpg)
+  
+  
+  
